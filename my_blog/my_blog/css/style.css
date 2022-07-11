@@ -1,0 +1,19 @@
+body
+{
+background-color: #f8f8e8;
+}
+#f1
+{
+color: black;
+font-size: 18px;
+font-weight: 400;
+background-color: #eaeaca;
+}
+#f2
+{
+color: #707070;
+font-size: 14px;
+font-style: italic;
+text-align: left;
+line-height: 16px;
+}
